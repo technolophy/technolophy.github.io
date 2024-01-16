@@ -140,7 +140,10 @@ collections:
     sort_by: order
 
 feed:
-  tags: true
+  categories:
+    - News
+    - Podcast
+    - Tutorial
 
 defaults:
   - scope:
