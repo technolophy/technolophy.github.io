@@ -1,7 +1,7 @@
 ---
 title: Writing a New Post :)
 author: cotes
-date: 2024-01-16 14:10:00 +0800
+date: 2023-01-16 14:10:00 +0800
 categories: [Blogging, Tutorial]
 tags: [writing]
 render_with_liquid: false
