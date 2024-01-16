@@ -1,5 +1,5 @@
 ---
-title: Writing a New Post
+title: Writing a New Post :)
 author: cotes
 date: 2024-01-16 14:10:00 +0800
 categories: [Blogging, Tutorial]
